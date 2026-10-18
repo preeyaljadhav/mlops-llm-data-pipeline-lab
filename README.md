@@ -63,4 +63,4 @@ Everything is free: no GPU, API key, or paid service is needed. Dependencies (`d
 ## Files
 
 - `LLM_Data_Pipeline_Lab1.ipynb`: the original lab plus my three additions, with all outputs
-- `README.md`: this file
+- `README.md`: this file.
